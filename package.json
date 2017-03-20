@@ -1,0 +1,26 @@
+{
+  "name": "react-native-touch-id-android",
+  "version": "0.0.1",
+  "description": "touchID for React Native (Android)",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "touchID",
+    "touch",
+    "android",
+    "react-native",
+    "fingerprint",
+    "finger"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Vasiliev90",
+      "email": "mikhail.vasiliev@eleken.co"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

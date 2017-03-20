@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Датчик відбитків забруднився. Очистьте його та повторіть спробу."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Не вдалось обробити відбиток. Повторіть спробу."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Відбиток розпізнано частково. Повторіть спробу."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Ви забрали палець надто швидко. Повторіть спробу."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Ви провели пальцем надто повільно. Повторіть спробу."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Дію з відбитком скасовано."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Апаратне забезпечення для сканування відбитка недоступне."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Забагато спроб. Спробуйте пізніше."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Не вдалося зберегти відбиток. Видаліть наявний відбиток."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Час очікування відбитка минув. Повторіть спробу."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Повторіть спробу."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Не розпізнано"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Відбитки:"</string>
+</resources>

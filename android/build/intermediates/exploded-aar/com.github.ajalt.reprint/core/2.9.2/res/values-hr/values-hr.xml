@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Senzor otiska prsta nije čist. Očistite ga i pokušajte ponovo."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Obrada otiska prsta nije uspjela. Pokušajte ponovo."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Otkriven je djelomični otisak prsta. Pokušajte ponovo."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Prebrzo pomicanje prsta. Pokušajte ponovo."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Presporo pomicanje prsta. Pokušajte ponovo."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Radnja otiska prsta otkazana je."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Hardver za otisak prsta nije dostupan."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Previše pokušaja. Pokušajte ponovo kasnije."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Otisak prsta nije pohranjen. Uklonite postojeći otisak prsta."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Isteklo je vrijeme čekanja za otisak prsta. Pokušajte ponovo."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Pokušajte ponovo."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Nije prepoznat"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Otisci prstiju:"</string>
+</resources>

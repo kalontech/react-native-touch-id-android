@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Senzor otisků prstů je znečištěn. Vyčistěte jej a zkuste to znovu."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Zpracování otisku prstu se nezdařilo. Zkuste to znovu."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Byla zjištěna jen část otisku prstu. Zkuste to znovu."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Pohyb prstem byl příliš rychlý. Zkuste to znovu."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Pohyb prstem byl příliš pomalý. Zkuste to znovu."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Operace otisku prstu byla zrušena."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Není k dispozici hardware ke snímání otisků prstů."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Příliš mnoho pokusů. Zkuste to později."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Otisk prstu nelze uložit. Odstraňte existující otisk prstu."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Časový limit sejmutí otisku prstu vypršel. Zkuste to znovu."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Zkuste to znovu."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Nerozpoznáno"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Digitální otisky:"</string>
+</resources>

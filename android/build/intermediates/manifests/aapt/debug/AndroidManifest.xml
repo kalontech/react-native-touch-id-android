@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.eleken.react_native_touch_id_android"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <!-- Marshmallow fingerprint permission -->
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+
+    <!-- Samsung fingerprint permission, only required if you include the Spass module -->
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+
+</manifest>
