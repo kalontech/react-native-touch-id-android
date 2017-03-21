@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-id-android",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "touchID for React Native (Android)",
   "dependencies": {},
   "devDependencies": {},
@@ -22,5 +22,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElekenAgency/react-native-touch-id-android.git"
   }
 }

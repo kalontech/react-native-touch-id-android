@@ -4,14 +4,32 @@ const Fingerprint = NativeModules.Fingerprint;
 
 
 
-module.exports = {
-  requestTouch: (callback) => {
-    return Fingerprint.requestTouch(callback);
+export default {
+  requestTouch() {
+    return new Promise((resolve, reject) => {
+      Fingerprint.requestTouch().then(result => {
+        if (result.error) {
+          return reject(result.error);
+        }
+
+        resolve(true);
+      })
+    })
   },
+
   dismiss: () => {
     return Fingerprint.dismiss();
   },
-  isSensorAvailable: () => {
-    return Fingerprint.isSensorAvailable();
-  },
+
+  isSensorAvailable() {
+    return new Promise((resolve, reject) => {
+      Fingerprint.isSensorAvailable().then(result => {
+        if (result.error) {
+          return reject(result.error);
+        }
+
+        resolve(true);
+      })
+    })
+  }
 }
