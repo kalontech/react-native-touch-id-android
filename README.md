@@ -3,11 +3,15 @@
 
 [![npm version](http://img.shields.io/npm/v/react-native-touch-id-android.svg?style=flat-square)](https://npmjs.org/package/react-native-touch-id-android "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-touch-id-android.svg?style=flat-square)](https://npmjs.org/package/react-native-touch-id-android "View this project on npm")
+[![npm](https://img.shields.io/npm/l/react-native-touch-id-android.svg?style=flat-square)](https://github.com/ElekenAgency/react-native-touch-id-android/blob/master/LICENSE.md)
 
 
 Fingerprint identity for Android based on https://github.com/ajalt/reprint
 
 ## Installation Android
+
+**Tested only on RN version > 0.40**
+
 1. `npm install react-native-touch-id-android --save`
 2. `react-native link react-native-touch-id-android`
 
