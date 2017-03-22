@@ -12,6 +12,7 @@ init_new_example_project() {
     package.json
     index.{ios,android}.js
     android/app/build.gradle
+    android/build.gradle
     src
     scripts
     __tests__
