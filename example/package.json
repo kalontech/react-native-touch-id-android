@@ -30,6 +30,7 @@
     "react-native-touch-id-android": "0.0.2"
   },
   "devDependencies": {
+    "ava": "^0.18.2",
     "babel-jest": "19.0.0",
     "babel-preset-react-native": "1.9.1",
     "jest": "19.0.2",
