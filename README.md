@@ -4,7 +4,7 @@
 [![npm version](http://img.shields.io/npm/v/react-native-touch-id-android.svg?style=flat-square)](https://npmjs.org/package/react-native-touch-id-android "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-touch-id-android.svg?style=flat-square)](https://npmjs.org/package/react-native-touch-id-android "View this project on npm")
 [![npm](https://img.shields.io/npm/l/react-native-touch-id-android.svg?style=flat-square)](https://github.com/ElekenAgency/react-native-touch-id-android/blob/master/LICENSE.md)
-
+[![Build Status](https://travis-ci.org/ElekenAgency/react-native-touch-id-android.svg?branch=master)](https://travis-ci.org/ElekenAgency/react-native-touch-id-android)
 
 Fingerprint identity for Android based on https://github.com/ajalt/reprint
 
@@ -121,6 +121,11 @@ export default class TouchTest extends Component {
 
 
 ```
+
+# Troubleshooting
+
+If you made **5 wrong fingerprint attempts**, Android Fingerprint API requires some time to continue work with sensor. In that case `Finger.requestTouch()` returns error `LOCKED_OUT`, so it would be good to make user awared that senser is temporary unavailable (near 30 seconds).
+
 
 ## Questions or suggestions?
 
