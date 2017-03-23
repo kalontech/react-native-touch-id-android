@@ -11,6 +11,7 @@ init_new_example_project() {
     .babelrc
     package.json
     index.{ios,android}.js
+    App
     android/app/build.gradle
     android/build.gradle
     src
