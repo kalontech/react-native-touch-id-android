@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-id-android",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "touchID for React Native (Android)",
   "dependencies": {},
   "devDependencies": {},

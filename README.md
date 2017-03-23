@@ -8,6 +8,13 @@
 
 Fingerprint identity for Android based on https://github.com/ajalt/reprint
 
+
+## Demo
+
+
+![](./src/screenshot.png)
+
+
 ## Installation Android
 
 **Tested only on RN version > 0.40**
@@ -22,7 +29,7 @@ Fingerprint identity for Android based on https://github.com/ajalt/reprint
 
 allprojects {
     repositories {
-        
+
         ...
         maven { url "https://jitpack.io" } // <--- add this line
     }
@@ -44,7 +51,7 @@ public class MainApplication extends Application implements ReactApplication {
     super.onCreate();
     Reprint.initialize(this); // <- add this line
   }
-  
+
 ...
 
 ```
@@ -55,25 +62,25 @@ public class MainApplication extends Application implements ReactApplication {
 # Usage
 
 1. `Finger.isSensorAvailable()`: Promise returns `true` if success and string `error` in other cases (including case when you have sensor, but not enabled it in your phone's settings)
-  
+
   ```js
-  
+
   Finger.isSensorAvailable()
       .then((isAvailable) => {   })
       .catch(error => {   });
-  
+
   ```    
-      
+
 2. `Finger.requestTouch()`: Promise returns `true` if success and string `error` in other cases.
 
-      
+
   ```js
-  
+
   Finger.requestTouch()
       .then(success => {  })
       .catch(error => {  });
-  
-  ``` 
+
+  ```
 
 3. `Finger.dismiss()` if you open sensor and want to close it before touching (like when close app or dialog)
 
@@ -108,9 +115,9 @@ export default class TouchTest extends Component {
 
   render() {
     return (    
-    
+
         ...
-        
+
     );
   }
 
