@@ -1,0 +1,42 @@
+{
+  "name": "TouchTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "lint": "node node_modules/eslint/bin/eslint .",
+    "lintdiff": "git diff --name-only --cached --relative | grep '\\.js$' | xargs standard | snazzy",
+    "fixcode": "eslint --fix .",
+    "clean": "rm -rf $TMPDIR/react-* && watchman watch-del-all && npm cache clean",
+    "clean:android": "cd android/ && ./gradlew clean && cd .. && react-native run-android",
+    "newclear": "rm -rf $TMPDIR/react-* && watchman watch-del-all && rm -rf ios/build/ModuleCache/* && rm -rf node_modules/ && npm cache clean && npm i",
+    "test": "ava --verbose",
+    "test:watch": "ava --watch",
+    "coverage": "nyc ava && nyc report --reporter=html && open coverage/index.html || xdg-open coverage/index.html",
+    "tron": "node_modules/.bin/reactotron",
+    "android:build": "cd android && ./gradlew assembleRelease",
+    "android:install": "cd android && ./gradlew assembleRelease && ./gradlew installRelease",
+    "android:hockeyapp": "cd android && ./gradlew assembleRelease && puck -submit=auto app/build/outputs/apk/app-release.apk",
+    "android:devices": "$ANDROID_HOME/platform-tools/adb devices",
+    "android:logcat": "$ANDROID_HOME/platform-tools/adb logcat *:S ReactNative:V ReactNativeJS:V",
+    "android:shake": "$ANDROID_HOME/platform-tools/adb devices | grep '\\t' | awk '{print $1}' | sed 's/\\s//g' | xargs -I {} $ANDROID_HOME/platform-tools/adb -s {} shell input keyevent 82",
+    "build:ios": "cd ios && xcodebuild build -project example.xcodeproj -scheme example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO OTHER_LDFLAGS='$(inherited) -ObjC -lc++' -destination 'platform=iOS Simulator,name=iPhone 6' -configuration Release -derivedDataPath build",
+    "flow": "flow --show-all-errors"
+  },
+  "dependencies": {
+    "react": "15.4.2",
+    "react-native": "0.42.3",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-touch-id-android": "0.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

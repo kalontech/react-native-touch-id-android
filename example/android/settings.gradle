@@ -1,0 +1,5 @@
+rootProject.name = 'TouchTest'
+include ':react-native-touch-id-android'
+project(':react-native-touch-id-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-touch-id-android/android')
+
+include ':app'
