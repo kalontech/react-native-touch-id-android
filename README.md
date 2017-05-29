@@ -22,29 +22,48 @@ Fingerprint identity for Android based on https://github.com/ajalt/reprint
 1. `npm install react-native-touch-id-android --save`
 2. `react-native link react-native-touch-id-android`
 
-3. `android/build.gradle`:
+3. `android/build.gradle` (**not** android/app/build.gradle, pay attention):
 
 ```js
 
 
 allprojects {
     repositories {
-
-        ...
-        maven { url "https://jitpack.io" } // <--- add this line
+        mavenLocal()
+        jcenter()
+        maven {
+            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
+            url "$rootDir/../node_modules/react-native/android"
+        }
+        maven { url "https://jitpack.io" }            // <--- add this line
     }
 }
 
 ```
 
-4. `android/app/src/main/java/<YOUR-APP-FOLDER>/MainApplication` file:
+4. `android/app/src/main/java/<YOUR-APP-FOLDER>/MainApplication` file, check if you already have this lines:
 
 
 ```js
 
+import com.github.ajalt.reprint.core.Reprint;      // <- add this line
+import co.eleken.react_native_touch_id_android.FingerprintPackage;    // <- add this line
+
 public class MainApplication extends Application implements ReactApplication {
 
 ...
+
+  private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
+
+    @Override
+    protected List<ReactPackage> getPackages() {
+      return Arrays.<ReactPackage>asList(
+          new MainReactPackage(),
+          new FingerprintPackage(),     // <- add this line
+      );
+    }
+    
+  };
 
   @Override
   public void onCreate() {
