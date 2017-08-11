@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Sensoren til registrering af fingeraftryk er beskidt. Tør den af, og prøv igen."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Fingeraftrykket kunne ikke behandles. Prøv igen."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Der blev registreret et delvist fingeraftryk. Prøv igen."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Du bevægede fingeren for hurtigt. Prøv igen."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Du bevægede fingeren for langsomt. Prøv igen."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Fingeraftrykshandlingen blev annulleret."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Hardwaren til fingeraftryk er ikke tilgængelig."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Du har prøvet for mange gange. Prøv igen senere."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Fingeraftrykket kan ikke gemmes. Fjern et eksisterende fingeraftryk."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Registrering af fingeraftryk fik timeout. Prøv igen."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Prøv igen."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Kan ikke genkendes"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Fingeraftryk:"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

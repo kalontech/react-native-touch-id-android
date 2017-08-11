@@ -21,7 +21,8 @@ public class FingerprintPackage implements ReactPackage {
         return modules;
     }
 
-    @Override
+    // @Override
+    // deprecated since RN 0.47
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return new ArrayList<>();
     }
