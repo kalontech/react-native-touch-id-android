@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"હોમ પર નેવિગેટ કરો"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ઉપર નેવિગેટ કરો"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"વધુ વિકલ્પો"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"થઈ ગયું"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"બધું જુઓ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"એક એપ્લિકેશન પસંદ કરો"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"શોધો…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ક્વેરી સાફ કરો"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"શોધ ક્વેરી"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"શોધો"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ક્વેરી સબમિટ કરો"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"વૉઇસ શોધ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"આની સાથે શેર કરો"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s સાથે શેર કરો"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"સંકુચિત કરો"</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"ફિંગરપ્રિન્ટ સેન્સર ગંદું છે. કૃપા કરીને સાફ કરો અને ફરી પ્રયાસ કરો."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"ફિંગરપ્રિન્ટ પ્રક્રિયા કરી શકાઈ નથી. કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"આંશિક ફિંગરપ્રિન્ટ મળી. કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"આંગળી બહુ ઝડપથી ખસેડી. કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+    <string msgid="7381891107120721078" name="fingerprint_acquired_too_slow">"આંગળી બહુ ધીમેથી ખસેડી. કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"ફિંગરપ્રિન્ટ ઓપરેશન રદ કર્યું."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"ફિંગરપ્રિન્ટ હાર્ડવેર ઉપલબ્ધ નથી."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"ઘણા બધા પ્રયત્નો. પછીથી ફરી પ્રયાસ કરો."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"ફિંગરપ્રિન્ટ સંગ્રહિત કરી શકાતી નથી. કૃપા કરીને અસ્તિત્વમાંની ફિંગરપ્રિન્ટ દૂર કરો."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"ફિંગરપ્રિન્ટનો સમય બાહ્ય થયો. ફરી પ્રયાસ કરો."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"ફરી પ્રયાસ કરો."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"ઓળખાયેલ નથી"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"ફિંગરપ્રિંટ્સ:"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

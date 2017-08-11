@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 108,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 107,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 122,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 103,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 110,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 110,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 87,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 87,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 104,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 104,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 112,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 112,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 82,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 82,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 112,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 112,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 106,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 106,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 97,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 97,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 112,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 112,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 103,
+                    "endOffset": 1529
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endColumn": 103,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1534,
+                    "endColumn": 103,
+                    "endOffset": 1633
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 103,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1638,
+                    "endColumn": 121,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 121,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 97,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1989,
+                        "endColumn": 97,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 169,
+                    "endOffset": 2023
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 169,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2028,
+                    "endColumn": 145,
+                    "endOffset": 2169
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 145,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2174,
+                    "endColumn": 149,
+                    "endOffset": 2319
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 149,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2324,
+                    "endColumn": 149,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 149,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endColumn": 144,
+                    "endOffset": 2614
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 144,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2619,
+                    "endColumn": 125,
+                    "endOffset": 2740
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 125,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2745,
+                    "endColumn": 141,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 141,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 130,
+                    "endOffset": 3013
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 130,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3018,
+                    "endColumn": 164,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 164,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endColumn": 137,
+                    "endOffset": 3316
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 137,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3321,
+                    "endColumn": 108,
+                    "endOffset": 3425
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 108,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3430,
+                    "endColumn": 103,
+                    "endOffset": 3529
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 103,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3534,
+                    "endColumn": 82,
+                    "endOffset": 3612
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.github.ajalt.reprint/core/2.9.2/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1731,
+                        "endColumn": 82,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3617,
+                    "endColumn": 100,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "/Users/Eleken./testTouch/node_modules/react-native-touch-id-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2087,
+                        "endColumn": 100,
+                        "endOffset": 2183
+                    }
+                }
+            }
+        ]
+    }
+]
