@@ -9,6 +9,13 @@
 Fingerprint identity for Android based on https://github.com/ajalt/reprint
 
 
+## NOTES:
+- current latest version: v0.1.x
+- for RN < 0.47.0, use react-native-touch-id-android@**0.0.5**
+
+
+- An example working project is available at: https://github.com/ElekenAgency/react-native-touch-id-android/tree/master/example
+
 ## Demo
 
 
@@ -59,7 +66,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-          new FingerprintPackage(),     // <- add this line
+          new FingerprintPackage()     // <- add this line
       );
     }
     
