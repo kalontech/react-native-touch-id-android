@@ -111,6 +111,8 @@ public class FingerprintModule extends ReactContextBaseJavaModule {
             } else {
                 sendResponse("failed", "You don\'t have appropriate hardware", promise);
             }
+        } else {
+            sendResponse("failed", "You don\'t have appropriate hardware", promise);
         }
     }
     
